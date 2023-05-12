@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03247c19-91f5-458b-9484-dd710198b248": {
+      "ProjectGuid": "03247c19-91f5-458b-9484-dd710198b248",
+      "DisplayName": "PokerDeck.App",
+      "ColorIndex": 0
+    },
+    "43088216-68f7-422c-9e39-21231b9de48a": {
+      "ProjectGuid": "43088216-68f7-422c-9e39-21231b9de48a",
+      "DisplayName": "PokerDeck.Service.UnitTests",
+      "ColorIndex": 1
+    },
+    "629606b0-1372-4c6a-b35f-3c1370456a17": {
+      "ProjectGuid": "629606b0-1372-4c6a-b35f-3c1370456a17",
+      "DisplayName": "PokerDeck.Domain",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
