@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PokerDeckService\PokerDeck.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

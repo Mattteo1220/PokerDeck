@@ -10,7 +10,7 @@ namespace PokerDeck.Domain.UnitTests
     public class PlayerServiceTests
     {
         [Fact]
-        public void GeneratePlayers_Generates4Players()
+        public void GeneratePlayers_Generates4PlayersWithRandomNameAndEmptyCards()
         {
             var playerService = new PlayerService();
             var expectedNumOfPlayers = 4;
@@ -19,6 +19,7 @@ namespace PokerDeck.Domain.UnitTests
 
             Assert.Equal(expectedNumOfPlayers, players.Count());
             Assert.True(players.All(p => !string.IsNullOrWhiteSpace(p.Name)));
+            Assert.False(players.All(p => p.Hand.Any()));
         }
     }
 }
