@@ -10,3 +10,15 @@ C:\src\projects\GigiPhotography.Api\PokerDeck.App\PokerDeckService\obj\Debug\net
 C:\src\projects\GigiPhotography.Api\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.dll
 C:\src\projects\GigiPhotography.Api\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\ref\PokerDeck.Domain.dll
 C:\src\projects\GigiPhotography.Api\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.pdb
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\bin\Debug\net6.0\PokerDeck.Domain.deps.json
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\bin\Debug\net6.0\PokerDeck.Domain.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\bin\Debug\net6.0\ref\PokerDeck.Domain.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\bin\Debug\net6.0\PokerDeck.Domain.pdb
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.csproj.AssemblyReference.cache
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.AssemblyInfoInputs.cache
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.AssemblyInfo.cs
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.csproj.CoreCompileInputs.cache
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\ref\PokerDeck.Domain.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.pdb

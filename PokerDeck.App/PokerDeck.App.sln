@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerDeck.App", "PokerDeck\PokerDeck.App.csproj", "{03247C19-91F5-458B-9484-DD710198B248}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokerDeck.App", "PokerDeck\PokerDeck.App.csproj", "{03247C19-91F5-458B-9484-DD710198B248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerDeck.Service.UnitTests", "PokerDeck.Service.UnitTests\PokerDeck.Service.UnitTests.csproj", "{43088216-68F7-422C-9E39-21231B9DE48A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokerDeck.Domain.UnitTests", "PokerDeck.Service.UnitTests\PokerDeck.Domain.UnitTests.csproj", "{43088216-68F7-422C-9E39-21231B9DE48A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerDeck.Domain", "PokerDeckService\PokerDeck.Domain.csproj", "{629606B0-1372-4C6A-B35F-3C1370456A17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokerDeck.Domain", "PokerDeckService\PokerDeck.Domain.csproj", "{629606B0-1372-4C6A-B35F-3C1370456A17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

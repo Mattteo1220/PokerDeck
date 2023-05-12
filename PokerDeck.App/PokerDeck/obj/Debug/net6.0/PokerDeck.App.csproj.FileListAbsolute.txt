@@ -1,0 +1,15 @@
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\bin\Debug\net6.0\PokerDeck.App.exe
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\bin\Debug\net6.0\PokerDeck.App.deps.json
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\bin\Debug\net6.0\PokerDeck.App.runtimeconfig.json
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\bin\Debug\net6.0\PokerDeck.App.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\bin\Debug\net6.0\ref\PokerDeck.App.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\bin\Debug\net6.0\PokerDeck.App.pdb
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.csproj.AssemblyReference.cache
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.AssemblyInfoInputs.cache
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.AssemblyInfo.cs
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.csproj.CoreCompileInputs.cache
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\ref\PokerDeck.App.dll
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.pdb
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeck\obj\Debug\net6.0\PokerDeck.App.genruntimeconfig.cache
