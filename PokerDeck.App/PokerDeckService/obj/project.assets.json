@@ -10,6 +10,18 @@
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "Sentry/3.31.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Sentry.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Sentry.dll": {}
+        },
+        "build": {
+          "buildTransitive/Sentry.targets": {}
+        }
       }
     }
   },
@@ -43,11 +55,53 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "Sentry/3.31.0": {
+      "sha512": "v1e8EIjH5/FRfMVWoDAAIbHO+GB4m9lWhvRs/jKv2N0RukmdgJEgOdbOANvcGShWvoVLJ3D7ttxC0KcsL/pjOg==",
+      "type": "package",
+      "path": "sentry/3.31.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/Sentry.targets",
+        "buildTransitive/Sentry.targets",
+        "lib/net461/Sentry.dll",
+        "lib/net461/Sentry.xml",
+        "lib/net5.0/Sentry.dll",
+        "lib/net5.0/Sentry.xml",
+        "lib/net6.0-android31.0/Sentry.dll",
+        "lib/net6.0-android31.0/Sentry.xml",
+        "lib/net6.0-ios16.1/Sentry.dll",
+        "lib/net6.0-ios16.1/Sentry.xml",
+        "lib/net6.0-maccatalyst16.1/Sentry.dll",
+        "lib/net6.0-maccatalyst16.1/Sentry.xml",
+        "lib/net6.0/Sentry.dll",
+        "lib/net6.0/Sentry.xml",
+        "lib/netcoreapp3.0/Sentry.dll",
+        "lib/netcoreapp3.0/Sentry.xml",
+        "lib/netstandard2.0/Sentry.dll",
+        "lib/netstandard2.0/Sentry.xml",
+        "lib/netstandard2.1/Sentry.dll",
+        "lib/netstandard2.1/Sentry.xml",
+        "sentry-nuget.png",
+        "sentry.3.31.0.nupkg.sha512",
+        "sentry.nuspec",
+        "tools/sentry-cli-Darwin-arm64",
+        "tools/sentry-cli-Darwin-x86_64",
+        "tools/sentry-cli-Linux-aarch64",
+        "tools/sentry-cli-Linux-i686",
+        "tools/sentry-cli-Linux-x86_64",
+        "tools/sentry-cli-Windows-i686.exe",
+        "tools/sentry-cli-Windows-x86_64.exe"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Newtonsoft.Json >= 13.0.3"
+      "Newtonsoft.Json >= 13.0.3",
+      "Sentry >= 3.31.0"
     ]
   },
   "packageFolders": {
@@ -97,6 +151,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
+          },
+          "Sentry": {
+            "target": "Package",
+            "version": "[3.31.0, )"
           }
         },
         "imports": [

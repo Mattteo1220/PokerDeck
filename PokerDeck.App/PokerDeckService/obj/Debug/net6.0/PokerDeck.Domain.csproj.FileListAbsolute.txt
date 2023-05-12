@@ -22,3 +22,4 @@ C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerD
 C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.dll
 C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\ref\PokerDeck.Domain.dll
 C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\PokerDeck.Domain.pdb
+C:\src\projects\PokerDeck\PokerDeck.App\PokerDeckService\obj\Debug\net6.0\Sentry.Attributes.cs

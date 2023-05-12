@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Moq;
+using Sentry.Extensibility;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +15,7 @@ namespace PokerDeck.Domain.UnitTests
         public void Deal_DealsOutNumberOfCardsFromDeck()
         {
             var dealerService = new DealerService();
-            var playerService = new PlayerService();
+            var playerService = new PlayerService(new System.Net.Http.HttpClient());
             var pokerDeckService = new PokerDeckService();
             var deck = pokerDeckService.GenerateDeck();
             var players = playerService.GeneratePlayers();

@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\Msmce\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgSentry Condition=" '$(PkgSentry)' == '' ">C:\Users\Msmce\.nuget\packages\sentry\3.31.0</PkgSentry>
+  </PropertyGroup>
 </Project>

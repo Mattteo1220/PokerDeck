@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "O+/pfq5fnop8iy9AG9xnzgvhRwAbItZcEPCwan/tFdEtDQWCf7KYvJ8bn+rgwO2qieyUKiq4YIffVRIOsUMh2g==",
+  "dgSpecHash": "7E/ZLpjdwA4NffPED6h8n2oEf/nlg1GSJdq9PitJ7rTjV4PWVZSqUxcwnBKuIT8zisd4UztLpLDcywdZr/tGyA==",
   "success": true,
   "projectFilePath": "C:\\src\\projects\\PokerDeck\\PokerDeck.App\\PokerDeckService\\PokerDeck.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Msmce\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Msmce\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Msmce\\.nuget\\packages\\sentry\\3.31.0\\sentry.3.31.0.nupkg.sha512"
   ],
   "logs": []
 }
